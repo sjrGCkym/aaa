@@ -6,7 +6,7 @@ title: 沙金锐
 name_pronunciation: Jinrui Sha
 
 # Full name (for SEO)
-first_name: Jinrui
+first_name: Jin rui
 last_name: Sha
 
 # Status emoji
@@ -27,15 +27,16 @@ organizations:
   - name: Shanghai Jiao Tong University
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Crypto
+  - Lattice
+  - Zero Knowledge Proof
+  - Functional Commitment
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Shanghai Jiao Tong University
+    date_start: 2021-03-01
+    date_end: 2024-03-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
