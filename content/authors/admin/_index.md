@@ -48,7 +48,7 @@ education:
   - area: BSc Cyber Security
     institution: Shanghai Jiao Tong University
     date_start: 2015-09-01
-    date_end: 2019-06-31
+    date_end: 2019-06-30
     summary: |
       GPA: 3.7/4.3
 
