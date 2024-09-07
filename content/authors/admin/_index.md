@@ -3,10 +3,10 @@
 title: 沙金锐
 
 # Name pronunciation (optional)
-name_pronunciation: Jinrui Sha
+name_pronunciation: Jin Rui Sha
 
 # Full name (for SEO)
-first_name: Jin rui
+first_name: Jinrui
 last_name: Sha
 
 # Status emoji
