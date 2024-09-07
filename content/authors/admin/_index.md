@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Phd
+role: Ph.D.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -43,20 +43,20 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Shanghai Jiao Tong University
+    date_start: 2019-09-01
+    date_end: 2021-03-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.64/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Shanghai Jiao Tong University
+    date_start: 2015-09-01
+    date_end: 2019-06-31
     summary: |
       GPA: 3.4/4.0
       
@@ -164,4 +164,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fourth-year Ph.D. at School of Cyber Science and Engineering, Shanghai Jiao Tong University, under the advisory of Prof. Shengli Liu. I received my B.S. degree from Cyber Science and Engineering, Shanghai Jiao Tong University working with Prof. Lei Fan. I am interested in cryptography, in particular include zero knowledge proof, functional commitment and lattice-based cryptography.
